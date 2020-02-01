@@ -1,2 +1,2 @@
 # gitworkshopRepo
-Just a simple repo forked with :sparkle:
+Just a simple repo forked with :sparkles:

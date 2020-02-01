@@ -1,2 +1,2 @@
 # gitworkshopRepo
-Just a simple repo created with :heart:
+Just a simple repo forked with :sparkles:

@@ -1,2 +1,2 @@
 # gitworkshopRepo
-Just a sample repo created with :heart:
+Just a simple repo created with :heart:
